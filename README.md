@@ -16,7 +16,7 @@ for a variety of skill sets and skill levels that can be solved in any programmi
 | [07](https://adventofcode.com/2021/day/7)  | The Treachery of Whales | ⭐⭐    |
 | [08](https://adventofcode.com/2021/day/8)  | Seven Segment Search    | ⭐⭐    |
 | [09](https://adventofcode.com/2021/day/9)  | Smoke Basin             | ⭐⭐    |
-| [10](https://adventofcode.com/2021/day/10) |                         |       |
+| [10](https://adventofcode.com/2021/day/10) | Syntax Scoring          | ⭐⭐    |
 | [11](https://adventofcode.com/2021/day/11) |                         |       |
 | [12](https://adventofcode.com/2021/day/12) |                         |       |
 | [13](https://adventofcode.com/2021/day/13) |                         |       |
