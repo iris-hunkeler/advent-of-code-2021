@@ -1,7 +1,7 @@
 # Advent of Code 2021
 
-[Advent of Code](http://adventofcode.com/) is an annual Advent calendar of small programming puzzles 
-for a variety of skill sets and skill levels that can be solved in any programming language.
+[Advent of Code](http://adventofcode.com/) is an annual Advent calendar of small programming puzzles for a variety of
+skill sets and skill levels that can be solved in any programming language.
 
 ## Overview
 
@@ -22,7 +22,7 @@ for a variety of skill sets and skill levels that can be solved in any programmi
 | [13](https://adventofcode.com/2021/day/13) | Transparent Origami     | ⭐⭐    |
 | [14](https://adventofcode.com/2021/day/14) | Extended Polymerization | ⭐⭐    |
 | [15](https://adventofcode.com/2021/day/15) | Chiton                  | ⭐⭐    |
-| [16](https://adventofcode.com/2021/day/16) |                         |       |
+| [16](https://adventofcode.com/2021/day/16) | Packet Decoder          | ⭐⭐    |
 | [17](https://adventofcode.com/2021/day/17) |                         |       |
 | [18](https://adventofcode.com/2021/day/18) |                         |       |
 | [19](https://adventofcode.com/2021/day/19) |                         |       |
