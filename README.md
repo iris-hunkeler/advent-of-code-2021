@@ -23,7 +23,7 @@ skill sets and skill levels that can be solved in any programming language.
 | [14](https://adventofcode.com/2021/day/14) | Extended Polymerization | ⭐⭐    |
 | [15](https://adventofcode.com/2021/day/15) | Chiton                  | ⭐⭐    |
 | [16](https://adventofcode.com/2021/day/16) | Packet Decoder          | ⭐⭐    |
-| [17](https://adventofcode.com/2021/day/17) |                         |       |
+| [17](https://adventofcode.com/2021/day/17) | Trick Shot              | ⭐⭐    |
 | [18](https://adventofcode.com/2021/day/18) |                         |       |
 | [19](https://adventofcode.com/2021/day/19) |                         |       |
 | [20](https://adventofcode.com/2021/day/20) |                         |       |
