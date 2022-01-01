@@ -26,7 +26,7 @@ skill sets and skill levels that can be solved in any programming language.
 | [17](https://adventofcode.com/2021/day/17) | Trick Shot              | ⭐⭐    |
 | [18](https://adventofcode.com/2021/day/18) |                         |       |
 | [19](https://adventofcode.com/2021/day/19) |                         |       |
-| [20](https://adventofcode.com/2021/day/20) |                         |       |
+| [20](https://adventofcode.com/2021/day/20) | Trench Map              | ⭐⭐    |
 | [21](https://adventofcode.com/2021/day/21) |                         |       |
 | [22](https://adventofcode.com/2021/day/22) |                         |       |
 | [23](https://adventofcode.com/2021/day/23) |                         |       |
